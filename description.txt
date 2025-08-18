@@ -4,3 +4,13 @@ by Nil256
 
 ----------------------------------------
 
+The clipboard will be pasted the seed of world you'll create just after "Create" button on the world creation menu is pressed.
+
+This mod is useful for reporting the seeds of the world with whose generation has some issue to a mod author.
+This is also useful for world generation debug; you don't need to prepare random seeds by yourself for the debug anymore.
+
+----------------------------------------
+
+< Release Notes >
+-v1.0
+  Released.
