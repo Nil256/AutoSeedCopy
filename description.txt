@@ -12,5 +12,5 @@ This is also useful for world generation debug; you don't need to prepare random
 ----------------------------------------
 
 < Release Notes >
--v1.0
+- v1.0
   Released.
