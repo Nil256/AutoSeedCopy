@@ -1,0 +1,4 @@
+displayName = Auto World Seeds Copy
+author = Nil256
+version = 1.0
+side = client
