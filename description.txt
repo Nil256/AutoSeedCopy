@@ -12,5 +12,8 @@ This is also useful for world generation debug; you don't need to prepare random
 ----------------------------------------
 
 < Release Notes >
+- v1.0.1
+  Fixed the issue that the position of game mode value and evil type value had been swapped.
+
 - v1.0
   Released.

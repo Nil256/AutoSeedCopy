@@ -1,5 +1,5 @@
 displayName = Auto World Seeds Copy
 author = Nil256
-version = 1.0
+version = 1.0.1
 side = client
 homepage = https://github.com/Nil256/AutoSeedCopy

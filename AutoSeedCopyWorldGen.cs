@@ -12,7 +12,7 @@ namespace AutoSeedCopy
             int evilType = WorldGen.WorldGenParam_Evil + 1;
             int gameMode = Main.GameMode + 1;
             int seed = WorldGen._lastSeed;
-            string fullSeedsText = $"{worldSize}.{evilType}.{gameMode}.{seed}";
+            string fullSeedsText = $"{worldSize}.{gameMode}.{evilType}.{seed}";
             Platform.Get<IClipboard>().Value = fullSeedsText;
         }
 
