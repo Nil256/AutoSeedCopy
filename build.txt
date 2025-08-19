@@ -1,5 +1,5 @@
-displayName = Auto World Seeds Copy
+displayName = [1.4.3-1.4.4] Auto World Seeds Copy
 author = Nil256
-version = 1.0.1
+version = 1.0.1.0
 side = client
 homepage = https://github.com/Nil256/AutoSeedCopy
